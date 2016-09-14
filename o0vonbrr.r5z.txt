@@ -1,0 +1,13 @@
+﻿commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch getting-cleaning-data-project
+# Your branch is up-to-date with 'origin/getting-cleaning-data-project'.
+#
+# Changes to be committed:
+#	new file:   Codebook.md
+#	new file:   README.md
+#	new file:   run_analysis.R
+#	new file:   tidydata.txt
+#
+
